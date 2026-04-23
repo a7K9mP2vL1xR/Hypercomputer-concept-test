@@ -53,3 +53,4 @@ UFMS proposes a unified interface capable of manipulating these fields in a cont
 ---
 
 ## System Architecture (Conceptual)
+[ Computational Core ] | [ Field Control Layer ] | [ Quantum Field Interface ] | [ Physical Output (Matter / Energy / Spacetime) ]
